@@ -1,0 +1,5 @@
+🛠️ Available Commands:
+
+&vb @User - Assigns 'Verified-Boys' role and removes 'Unverified'.
+&vg @User - Assigns 'Verified-Girls' role and removes 'Unverified'.
+&setlog #channel - Sets the channel where verification logs will be posted.
